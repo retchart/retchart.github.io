@@ -18,8 +18,8 @@
   
   <entry>
     <title>一个使用NJOY解析ENDF中子截面数据示例</title>
-    <link href="http://yoursite.com/2020/03/29/An%20NJOY%20example%20to%20read%20ENDF%20cross%20section/"/>
-    <id>http://yoursite.com/2020/03/29/An%20NJOY%20example%20to%20read%20ENDF%20cross%20section/</id>
+    <link href="http://yoursite.com/2020/03/29/njoy-neutron-xs/"/>
+    <id>http://yoursite.com/2020/03/29/njoy-neutron-xs/</id>
     <published>2020-03-29T07:30:30.000Z</published>
     <updated>2020-03-29T14:56:23.264Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello bluebubu</title>
-    <link href="http://yoursite.com/2020/03/06/hello_bluebubu/"/>
-    <id>http://yoursite.com/2020/03/06/hello_bluebubu/</id>
+    <link href="http://yoursite.com/2020/03/06/hello-bluebubu/"/>
+    <id>http://yoursite.com/2020/03/06/hello-bluebubu/</id>
     <published>2020-03-06T06:40:44.000Z</published>
     <updated>2020-03-07T03:00:05.000Z</updated>
     
